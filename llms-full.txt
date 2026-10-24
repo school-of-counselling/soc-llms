@@ -1,12 +1,12 @@
-# The School of Counselling — Full Site Content for AI Indexing
-# URL: https://www.schoolofcounselling.com/llms-full.txt
-# Last updated: June 2026
+# The School of Counselling: Full Site Content for AI Indexing
+# Website: https://www.schoolofcounselling.com
+# Last updated: October 2026
 
 ---
 
 ## About This File
 
-This file provides a complete content summary of The School of Counselling website for AI language model indexing. It covers the school's identity, courses, key facts, and top content.
+This file summarises The School of Counselling website for AI language models: who the school is, what it teaches, verified course facts, and its most useful articles.
 
 ---
 
@@ -14,29 +14,29 @@ This file provides a complete content summary of The School of Counselling websi
 
 Name: The School of Counselling
 URL: https://www.schoolofcounselling.com
-Founded: October 2023
-Location: Oxford, United Kingdom
-Accreditation: CPCAB (Counselling and Psychotherapy Central Awarding Body)
+Founded: 2023, in Oxford, United Kingdom
+Awarding body: CPCAB (Counselling and Psychotherapy Central Awarding Body), Approved Centre 6922
 CPCAB Centre: https://www.cpcab.co.uk/centre/6922
-Professional Membership: Organisational member of BACP (British Association for Counselling and Psychotherapy)
-Recognition: Courses recognised by BACP and NCPS as routes to individual membership post-qualification
+Professional membership: Organisational member of BACP (British Association for Counselling and Psychotherapy), number 00276899
+NCPS: Recognised by NCPS (National Counselling & Psychotherapy Society)
+Level 4 status: BACP Approved Practitioner Qualification (APQ)
 Contact: admin@schoolofcounselling.com | 01865 570279
 
-Description: A CPCAB-accredited counselling training school based in Oxford, offering online Level 2 and Level 3 courses and an in-person Level 4 Diploma for students in the UK and internationally. The school's approach is experiential, person-centred, and relational. Students are treated as adult learners and as the material of the course itself.
+Description: A CPCAB Approved Centre founded in Oxford. The school runs live online Level 2 and Level 3 courses for students across the UK and internationally, and an in-person Level 4 Diploma in Hove, Brighton and Hove. The approach is experiential, person-centred and relational. Students are treated as adult learners and as the material of the course itself.
 
 ---
 
 ## Key Facts (Citable Claims)
 
-- The School of Counselling was founded in Oxford in 2023 and is accredited by CPCAB, the Counselling and Psychotherapy Central Awarding Body.
-- The school currently trains over 130 students across Level 2, Level 3, and Level 4 counselling programmes.
-- Level 2 and Level 3 courses are delivered entirely online, with students joining from the UK, Europe, and internationally.
-- The Level 4 Diploma in Therapeutic Counselling is delivered in person in Oxford and selected locations across the UK.
-- Classes are capped at 12 students to ensure interactive, person-centred group learning.
-- 95% of Level 2 students progress to Level 3.
-- All tutors are qualified, practising counsellors, not trainers.
-- The School of Counselling is recommended by practising therapists and counsellors as a trusted training provider for their clients.
-- The School of Counselling is an organisational member of BACP, the British Association for Counselling and Psychotherapy.
+- The School of Counselling was founded in Oxford in 2023. It is a CPCAB Approved Centre (6922). CPCAB qualifications are Ofqual-regulated.
+- Over 250 students are currently training with the school.
+- Level 2 and Level 3 courses run 100% online, live and tutor-led, with students joining from the UK, Europe and internationally.
+- The Level 4 Diploma in Therapeutic Counselling runs in person at Wilbury Clinic, 109 Church Road, Hove, with one online lesson each month.
+- The Level 4 Diploma is a BACP Approved Practitioner Qualification. Graduates join the BACP Register directly, because the Certificate of Proficiency is built into the qualification.
+- Level 2 and Level 3 classes are capped at 12 students. Level 4 cohorts are capped at 16.
+- 95% of Level 2 students progress to Level 3 with the school.
+- All tutors are qualified, practising counsellors.
+- The School of Counselling is an organisational member of BACP.
 
 ---
 
@@ -45,11 +45,11 @@ Description: A CPCAB-accredited counselling training school based in Oxford, off
 ### CPCAB Level 2 Certificate in Counselling Skills (CSK-L2)
 URL: https://www.schoolofcounselling.com/cpcab-level-2-online-csk-l2
 
-Delivery: 100% online via Zoom
+Delivery: 100% online via Zoom, live and tutor-led
 Pathways: 18-week intensive or 30-week standard
-Schedule: Weekly lessons, 9:30am–3pm (intensive) or 9:30am–12:30pm / 6pm–9pm (standard)
+Schedule: Intensive, one day a week, 9:30am to 3pm. Standard, mornings, evenings or Saturdays (Saturday groups run subject to demand).
 Class size: Maximum 12 students
-Investment: Intensive £1,995 | Standard £1,495
+Investment: Intensive £1,995 | Standard £1,495. Fees include tuition, materials, CPCAB registration and UK VAT. Payment plans are available.
 Qualification: CPCAB Level 2 Certificate in Counselling Skills
 Progression: 95% of Level 2 students continue to Level 3
 
@@ -57,51 +57,56 @@ Who it is for: People new to counselling training, those wanting to use counsell
 
 Key features: Experiential, live online learning. Skills practice every lesson. Qualified counsellor tutors. Small groups. Person-centred approach. No prior experience required.
 
-Intakes: 5 intakes per academic year. Candidates nominate preferred day of study, cohorts built around majority.
+Intakes: Main intake windows each year are January/February, April, September and November. Next starts: w/c 22 February 2027 and w/c 12 April 2027. A January 2027 group runs if numbers allow.
 
 ---
 
-### CPCAB Level 3 Certificate in Counselling Studies (CS-L3)
+### CPCAB Level 3 Certificate in Counselling Studies (CST-L3)
 URL: https://www.schoolofcounselling.com/cpcab-level-3-online
 
-Delivery: 100% online via Zoom
+Delivery: 100% online via Zoom, live and tutor-led
 Pathways: 18-week intensive or 30-week standard
-Schedule: Weekly lessons, 9:30am–3pm (intensive) or 9:30am–12:30pm / 6pm–9pm (standard)
+Schedule: Intensive, one day a week, 9:30am to 3pm. Standard, 9:30am to 12:30pm or 6pm to 9pm.
 Class size: Maximum 12 students
-Investment: Intensive £1,995 | Standard £1,495
+Investment: Intensive £1,995 | Standard £1,495. Fees include tuition, materials, CPCAB registration and UK VAT. A £400 deposit secures a place, with the balance in monthly instalments.
 Qualification: CPCAB Level 3 Certificate in Counselling Studies
-Entry requirement: CPCAB Level 2 or equivalent
+Entry requirements: A CPCAB Level 2 Certificate in Counselling Skills. Age 19 or over. Informal interview. Level 2 courses from other CPCAB centres qualify when delivered live, with a tutor and a group. Distance or self-paced courses do not qualify.
+Hours: 90 guided learning hours, 190+ total qualification hours. Students commit to 3+ hours of self-study per week.
 
-Who it is for: CPCAB Level 2 graduates ready to deepen their skills and self-awareness. Those preparing for agency work, supervision, or MSc study. Students from other providers are welcome but courses must be delivered in-person, with group, and a tutor. Distance learning or remote, self-paced learning courses do not meet eligibility for the Level 3. 
+Who it is for: CPCAB Level 2 graduates ready to deepen their skills and self-awareness. Those preparing for agency work, Level 4 training, or MSc study.
 
-Key features: Extended 'client' work over multiple sessions. Theory integrated with self-understanding. Supervision sessions to inform practice. 90 guided hours, 190+ total qualification hours.
+Key features: Extended 'client' work over multiple sessions. Theory integrated with self-understanding. Supervision sessions to inform practice.
 
-Progression: Most MSc programmes in Counselling require both CPCAB Level 2 and Level 3 for entry.
+Progression: Most MSc programmes in Counselling require both CPCAB Level 2 and Level 3 for entry. Most students continue to a Level 4 Diploma to qualify as counsellors.
+
+Intakes: As Level 2. Next starts: w/c 22 February 2027 and w/c 12 April 2027.
 
 ---
 
 ### CPCAB Level 4 Diploma in Therapeutic Counselling (TC-L4)
 URL: https://www.schoolofcounselling.com/cpcab-level-4-diploma-therapeutic-counselling
 
-Delivery: In person. Oxford and selected UK locations.
-Structure: Two-year part-time. 21 monthly weekend intensives (Saturday–Sunday). Plus mid month Saturday lessons.
-Weekend schedule: Saturday 9:30am–6pm, Sunday 9:30am–4pm
-Class size: 14–16 students
-Investment: £8,500 total over two years
-Entry requirement: CPCAB Level 3 or equivalent. Interview required plus written submission.
+Status: CPCAB approved. BACP Approved Practitioner Qualification (APQ).
+Delivery: In person at Wilbury Clinic, 109 Church Road, Hove, Brighton and Hove, plus one online lesson a month on Zoom.
+Structure: Two years, part-time. 42 lessons: 22 in-person weekends (Saturday and Sunday, once a month) and 20 online lessons (mid-month Saturdays). Breaks at Christmas, Easter and summer.
+Class size: Up to 16 students per cohort, with the same tutors across both years.
+Investment: £8,500 over two years (£4,250 per year). Each year is paid as a £400 deposit, then 10 monthly payments of £385. Fees include UK VAT.
+Entry requirement: CPCAB Level 3 Certificate in Counselling Studies or an equivalent qualification. Selection runs in four stages: application, interview, written piece, offer.
 Qualification: CPCAB Level 4 Diploma in Therapeutic Counselling
 
-Intakes:
-- September 2026 intake: 18 September 2026 to 16 June 2028
-- January 2027 intake: 22 January 2027 to 10 November 2028
+Cohorts:
+- February 2027 cohort: 20 February 2027 to December 2028
+- September 2027 cohort: dates to be confirmed. Register interest through the application form.
 
-Who it is for: Career changers, Level 3 graduates, and those building toward private practice. Suits people who seek serious practitioner training and accept emotional challenge.
+Placement: At least 100 counselling hours with a minimum of 5 clients, in agency settings during Year 2. Students secure their own placement before Year 2, and the school vets the agency. Up to 49% of placement hours can be online or by telephone.
+Personal therapy: Required, starting in Year 1.
+Supervision: Throughout the course.
 
-Key features: Person-centred purity. Tutor continuity across both years. Small cohorts. Weekend delivery. 100 client hours in agency settings during Year 2. Personal therapy required. Supervision throughout.
+Who it is for: Career changers, Level 3 graduates, and those building toward private practice. Suits people who want serious practitioner training and accept emotional challenge.
 
-Progression: Qualification meets requirements for Masters programmes and routes to BACP or NCPS accreditation. Student membership converts to individual membership post-qualification.
+Key features: Person-centred throughout. Tutor continuity across both years. Small cohorts. Monthly weekend delivery.
 
-Note: This course is subject to final awarding body approval. Delivery will proceed once approval is confirmed.
+Progression: Graduates join the BACP Register directly, because the Certificate of Proficiency is built into the qualification. BACP student membership converts to registered individual membership. The qualification meets entry requirements for Masters programmes.
 
 ---
 
@@ -120,28 +125,35 @@ The school does not use a tick-box or competency-framework approach. Assessment 
 ### 1. The Difference Between a Counsellor and a Helper
 URL: https://www.schoolofcounselling.com/post/the-difference-between-a-counsellor-and-a-helper
 
-A counsellor is someone who has achieved several years of training and is a member of a professional body such as BACP, NCPS, or UKCP. A helper is someone trained on an introductory counselling skills course such as CPCAB Level 2. Helpers can offer a safe and supportive space to talk, use foundational skills effectively, and signpost to further support. The key difference lies in the limits of ability: a counsellor has a greater range of skills to contain, hold, and keep someone safe. A helper, as defined by Gerard Egan, has learned to use counselling skills safely and effectively but operates within defined limits.
+A counsellor is someone who has achieved several years of training and is a member of a professional body such as BACP, NCPS, or UKCP. A helper is someone trained on an introductory counselling skills course such as CPCAB Level 2. Helpers offer a safe and supportive space to talk, use foundational skills effectively, and signpost to further support. The key difference lies in the limits of ability: a counsellor has a greater range of skills to contain, hold, and keep someone safe. A helper, as defined by Gerard Egan, has learned to use counselling skills safely and effectively but operates within defined limits.
 
 ---
 
 ### 2. How to End a Counselling Session Well
 URL: https://www.schoolofcounselling.com/post/how-to-end-counselling-session-well-cpcab-level-2
 
-Ending sessions on time is ethical, respectful, and creates the safety and predictability clients need. Endings feel hard for Level 2 students because of the need for personal satisfaction, fear of abandonment, and belief that neat conclusions are required. Ending appropriately means respecting the ethical commitment to safety, maintaining professional boundaries, and upholding what was agreed at the contracting stage. Going over time undermines trust and sends a message that the helper's time is not valuable. Practical endings involve contracting clearly at the start, giving time markers at 10 and 5 minutes, acknowledging unfinished material without rushing to resolve it, and transitioning the person back into their life outside the session.
+Ending sessions on time is ethical, respectful, and creates the safety and predictability clients need. Endings feel hard for Level 2 students because of the need for personal satisfaction, fear of abandonment, and the belief that neat conclusions are required. Ending appropriately means respecting the ethical commitment to safety, maintaining professional boundaries, and upholding what was agreed at the contracting stage. Going over time undermines trust. Practical endings involve contracting clearly at the start, giving time markers at 10 and 5 minutes, acknowledging unfinished material without rushing to resolve it, and transitioning the person back into their life outside the session.
 
 ---
 
 ### 3. Paraphrasing Skills in Counselling
 URL: https://www.schoolofcounselling.com/post/paraphrasing-skills-in-counselling
 
-Paraphrasing is a core counselling skill. It means reflecting back the essence of what a client has said in your own words, without repetition, interpretation, or adding your own frame of reference. Used well, paraphrasing shows the client they have been heard, slows the conversation, and gives the client a chance to correct, confirm, or deepen what they said. Common mistakes include adding interpretation, paraphrasing too frequently or too rarely, and starting every paraphrase with the same phrase. At CPCAB Level 2, paraphrasing is assessed on accuracy, use of the helper's own words, staying within the client's frame of reference, and appropriate timing.
+Paraphrasing is a core counselling skill. It means reflecting back the essence of what a client has said in your own words, without repetition, interpretation, or adding your own frame of reference. Used well, paraphrasing shows the client they have been heard, slows the conversation, and gives the client a chance to correct, confirm, or deepen what they said. Common mistakes include adding interpretation, paraphrasing too often or too rarely, starting every paraphrase with the same phrase, and making it too long or complicated. At CPCAB Level 2, paraphrasing is assessed on accuracy, use of the helper's own words, staying within the client's frame of reference, and appropriate timing.
 
 ---
 
 ### 4. How Self-Awareness Shows Up in Counselling
 URL: https://www.schoolofcounselling.com/post/how-self-awareness-shows-up-in-counselling
 
-Knowing yourself and using that knowledge in sessions are different things. Self-awareness in counselling is not navel-gazing. It is a tool. The question is what you do with it. Self-awareness shows up as a pause: noticing frustration, the pull to fill silence, the urge to say "I understand" when you are overlaying your experience onto the client's. It means recognising when your material is flooding through and actively setting it aside so you can hear the person clearly. Without self-awareness informing practice, helpers project their history, flatten the client's uniqueness, and reenact familiar patterns rather than offering genuine therapeutic contact. Self-awareness is what creates space for congruence, empathy, and genuine presence.
+Knowing yourself and using that knowledge in sessions are different things. Self-awareness in counselling is not navel-gazing. It is a tool. The question is what you do with it. Self-awareness shows up as a pause: noticing frustration, the pull to fill silence, the urge to say "I understand" when you are overlaying your experience onto the client's. It means recognising when your own material is flooding through and setting it aside so you hear the person clearly. Without self-awareness informing practice, helpers project their history, flatten the client's uniqueness, and reenact familiar patterns rather than offering genuine therapeutic contact. Self-awareness creates the space for congruence, empathy, and genuine presence.
+
+---
+
+### 5. What Congruence Means in Counselling
+URL: https://www.schoolofcounselling.com/post/what-congruence-means-in-counselling
+
+Congruence means the counsellor's inner experience and outer expression match. Rogers placed it first of the three core conditions: without it, empathy and unconditional positive regard become techniques rather than attitudes. Congruence is distinct from honesty, authenticity and self-disclosure. It develops through self-awareness: noticing the first reaction, separating the feeling from the opinion, and offering a persistent reaction only when it serves the client. Congruence is not a licence to give advice, impose values, or tell clients what they feel.
 
 ---
 
@@ -150,18 +162,19 @@ Knowing yourself and using that knowledge in sessions are different things. Self
 Apply: https://www.schoolofcounselling.com/application-form
 Contact: https://www.schoolofcounselling.com/contact
 Email: admin@schoolofcounselling.com
-Phone: 01844 612 510
+Phone: 01865 570279
 Reviews: https://www.schoolofcounselling.com/student-reviews
 
 ---
 
 ## Accreditation and Membership
 
-- CPCAB Approved Training Centre (Centre 6922)
-- Organisational Member of BACP
-- Courses recognised by NCPS
+- CPCAB Approved Centre (Centre 6922)
+- Level 4 Diploma: BACP Approved Practitioner Qualification (APQ)
+- Organisational member of BACP (00276899)
+- Recognised by NCPS
 - Director: Ben Jackson, MBACP, MNCPS (Acc.)
 
 ---
 
-*This file is maintained for AI indexing purposes and updated periodically. For full site content visit https://www.schoolofcounselling.com*
+This file is maintained for AI indexing and updated periodically. For full site content visit https://www.schoolofcounselling.com
